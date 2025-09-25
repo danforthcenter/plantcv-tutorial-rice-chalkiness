@@ -4,7 +4,7 @@ authors:
 - family-names: Medina Jimenez
   given-names: Karina 
   affiliation: Donald Danforth Plant Science Center
-  orcid: https://orcid.org/0000-0002-4305-7854
+  orcid: "https://orcid.org/0000-0002-4305-7854"
 - family-names: Cunningham
   given-names: Shannon
   affiliation: 
@@ -13,10 +13,14 @@ authors:
   given-names: Haley
   affiliation: Donald Danforth Plant Science Center
   orcid: "https://orcid.org/0000-0002-8825-8297"
+- family-names: Fahlgren
+  given-names: Noah
+  affiliation: Donald Danforth Plant Science Center
+  orcid: "https://orcid.org/0000-0002-5597-4537"
 - family-names: Lorence
   given-names: Argelia
   affiliation: Arkansas State University
-  orcid: https://orcid.org/0000-0001-9844-8820
+  orcid: "https://orcid.org/0000-0001-9844-8820"
 title: "Rice Chalkiness Image Analysis Tutorial"
 version: 1.0.0
 doi: 
