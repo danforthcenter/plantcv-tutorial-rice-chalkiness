@@ -8,7 +8,6 @@ authors:
 - family-names: Cunningham
   given-names: Shannon
   affiliation: Arkansas Biosciences Institute, Arkansas State University
-  orcid: 
 - family-names: Schuhl
   given-names: Haley
   affiliation: Donald Danforth Plant Science Center
@@ -21,8 +20,7 @@ authors:
   given-names: Argelia
   affiliation: Arkansas State University
   orcid: "https://orcid.org/0000-0001-9844-8820"
-title: "Rice Chalkiness Image Analysis Tutorial"
-version: 1.0.0
+title: "Rice Chalkiness Image Analysis Tutorial with PlantCV"
+version: 1.0
 doi: 
 date-released: 2025
-url: https://github.com/danforthcenter/plantcv-tutorial-rice-chalkiness"
